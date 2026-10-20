@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark MCKL",
+  "description": "Smart car park management system with real-time spot occupancy, double-parking violation detection, web-based spot calibration, and license plate owner registry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

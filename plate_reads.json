@@ -1,0 +1,42 @@
+[
+  {
+    "id": "plate-1740-0",
+    "plate": "9IOL",
+    "confidence": 0.1179,
+    "timestamp": "15:01:01",
+    "spotId": null,
+    "registered": false,
+    "ownerName": null,
+    "vehicleType": null
+  },
+  {
+    "id": "plate-1740-3",
+    "plate": "PLF5276",
+    "confidence": 0.3341,
+    "timestamp": "15:01:01",
+    "spotId": null,
+    "registered": false,
+    "ownerName": null,
+    "vehicleType": null
+  },
+  {
+    "id": "plate-1740-5",
+    "plate": "1000703",
+    "confidence": 0.072,
+    "timestamp": "15:01:01",
+    "spotId": null,
+    "registered": false,
+    "ownerName": null,
+    "vehicleType": null
+  },
+  {
+    "id": "plate-1740-8",
+    "plate": "PKO6745",
+    "confidence": 0.3092,
+    "timestamp": "15:01:01",
+    "spotId": null,
+    "registered": false,
+    "ownerName": null,
+    "vehicleType": null
+  }
+]
